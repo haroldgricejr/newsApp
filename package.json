@@ -1,0 +1,15 @@
+{
+  "name": "news-app",
+  "version": "1.0.0",
+  "description": "GW News App",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel --open"
+  },
+  "keywords": [],
+  "author": "Grice.Works",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
