@@ -1,0 +1,18 @@
+body {
+  background-color: #d7f4fa;
+  flex-direction: column;
+  display: flex;
+}
+
+.container {
+  flex-direction: column;
+  display: flex;
+}
+
+body > * {
+  flex-direction: column;
+  place-content: center space-between;
+  align-items: center;
+}
+
+/*# sourceMappingURL=index.3a01df49.css.map */
